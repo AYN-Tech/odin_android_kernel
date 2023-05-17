@@ -1,0 +1,71 @@
+
+qcom,quectel_sa800u_chijin_5000mah {
+	/* #4928359_Quectel_SA800U_ChiJin_5000mAH_PMI8998_averaged_MasterSlave_Nov18th2020*/
+	qcom,max-voltage-uv = <4250000>;
+	qcom,fg-cc-cv-threshold-mv = <4245>;
+	qcom,nom-batt-capacity-mah = <4900>;
+	qcom,fastchg-current-ma = <3700>;
+	qcom,batt-id-kohm = <98>;
+	qcom,battery-beta = <3440>;
+	qcom,battery-type = "quectel_sa800u_chijin_5000mah";
+	qcom,checksum = <0x7F17>;
+	qcom,gui-version = "PMI8998GUI - 2.0.0.58";
+	qcom,fg-profile-data = [
+		 DD 1F BB 05
+		 C2 03 CB FD
+		 F7 1C 8B 01
+		 12 05 CF 02
+		 41 1A 4B 1B
+		 9F 3D 67 4A
+		 92 00 00 00
+		 15 00 00 00
+		 00 00 61 CD
+		 B9 C5 6C CA
+		 10 00 08 00
+		 C0 C4 5F D5
+		 1B 07 DD F2
+		 5E DD 4B 0A
+		 0F FD FC 23
+		 27 06 09 20
+		 27 00 14 00
+		 91 1F 16 06
+		 82 03 BF FD
+		 D0 1C B4 02
+		 98 0C 49 0B
+		 95 18 81 2A
+		 4F 4C BE 63
+		 72 00 00 00
+		 0A 00 00 00
+		 00 00 8F CD
+		 D8 C2 02 B4
+		 0F 00 00 00
+		 0C DB 5F D5
+		 63 07 BF EB
+		 E4 00 CA 0A
+		 DD 06 13 13
+		 99 33 CC FF
+		 07 10 00 00
+		 86 13 33 43
+		 0F 00 40 00
+		 09 02 0A FA
+		 FF 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+		 00 00 00 00
+	];
+};
